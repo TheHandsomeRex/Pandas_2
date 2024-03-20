@@ -1,4 +1,4 @@
-age,workclass,education,marital-status,occupation,relationship,race,gender,capital-gain,capital-loss,hours-per-week,native-country,income salary,Label for income salary
+age,workclass,education,marital-status,occupation,relationship,race,gender,capital-gain,capital-loss,hours-per-week,native-country,income_salary,Label_income_salary
 25,Private,11th,Never-married,Machine-op-inspct,Own-child,Black,Male,5320,433,40,United-States,<=50K,1
 38,Private,HS-grad,Married-civ-spouse,Farming-fishing,Husband,White,Male,1213,654,50,United-States,<=50K,1
 28,Local-gov,Assoc-acdm,Married-civ-spouse,Protective-serv,Husband,White,Male,3413,656,40,United-States,>50K,2
